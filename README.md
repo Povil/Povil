@@ -1,5 +1,5 @@
-👋 Hi, I’m @Povil<br>
-🌱 I’m currently learning Kotlin
+Hi, I’m @Povil<br>
+I’m currently learning Kotlin
 
 
 <!---
